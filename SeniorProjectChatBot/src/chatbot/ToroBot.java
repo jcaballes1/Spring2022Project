@@ -77,7 +77,7 @@ class ToroBot extends JFrame implements ActionListener{
 		 }
 		 else 
 		 {
-		 speak(" I do not understand your question. Please provide me with more details. ");
+		 speak(" I do not understand your question. Please provide me with more details. It would be appreciated. ");
 		 break;
 		 }
 		 
