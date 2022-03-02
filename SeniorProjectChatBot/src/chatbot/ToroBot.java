@@ -50,6 +50,8 @@ class ToroBot extends JFrame implements ActionListener{
 		chatLog.append("You : "+entryField.getText()+"\n");
 		
 		intellegence(message);
+		
+		entryField.setText("");
 	}
 	
 	public static void intellegence(String message)
